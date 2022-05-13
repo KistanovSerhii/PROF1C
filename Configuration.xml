@@ -241,6 +241,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Справочники</Subsystem>
+			<CommonForm>Главная</CommonForm>
 			<Catalog>БилетыПлатформа</Catalog>
 			<Catalog>ХранилищеФайлов</Catalog>
 		</ChildObjects>
