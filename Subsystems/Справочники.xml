@@ -15,7 +15,7 @@
 			<Explanation/>
 			<Picture/>
 			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Билеты</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.БилетыПлатформа</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ХранилищеФайлов</xr:Item>
 			</Content>
 		</Properties>

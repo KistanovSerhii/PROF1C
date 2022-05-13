@@ -36,7 +36,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>1С:ПРОФ</v8:content>
+					<v8:content>Профессия 1С:Программист</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -203,13 +203,13 @@
 			<BriefInformation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Подготовка к экзамену 1С профессионал по платформе</v8:content>
+					<v8:content>Профессия 1С:Программист</v8:content>
 				</v8:item>
 			</BriefInformation>
 			<DetailedInformation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Приложение 1С:ПРОФ предназначено для подготовки к экзамену 1С профессионал по платформе</v8:content>
+					<v8:content>Приложение предназначено для подготовки к экзаменам и повышения квалификации программистов 1С</v8:content>
 				</v8:item>
 			</DetailedInformation>
 			<Copyright>
@@ -241,7 +241,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Справочники</Subsystem>
-			<Catalog>Билеты</Catalog>
+			<Catalog>БилетыПлатформа</Catalog>
 			<Catalog>ХранилищеФайлов</Catalog>
 		</ChildObjects>
 	</Configuration>

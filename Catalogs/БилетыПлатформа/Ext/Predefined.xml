@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.13">
+	<Item id="1583d318-011f-4dad-b647-ef58705667ed">
+		<Name>ИнтерфейсныеМеханизмы</Name>
+		<Code xsi:type="xs:decimal">10</Code>
+		<Description>Интерфейсные механизмы</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="f5517d3c-a257-43bc-8565-c58f51361d17">
+		<Name>Конструкторы</Name>
+		<Code xsi:type="xs:decimal">4</Code>
+		<Description>Конструкторы</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="1c7dc1b0-1030-4fc8-a629-dc6b406f8329">
+		<Name>МеханизмыИнтеграцииИОбменаДанными</Name>
+		<Code xsi:type="xs:decimal">8</Code>
+		<Description>Механизмы интеграции и обмена данными</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="94ee1e1c-113c-4c6a-b470-62e0689c012c">
+		<Name>МеханизмыОперативногоУчета</Name>
+		<Code xsi:type="xs:decimal">12</Code>
+		<Description>Механизмы оперативного учета</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="c5340375-b17c-4310-8661-2dc61a1242f8">
+		<Name>МеханизмыПостроенияОтчетности</Name>
+		<Code xsi:type="xs:decimal">11</Code>
+		<Description>Механизмы построения отчетности</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="6251751a-912e-4e18-8aee-5ed3848ac318">
+		<Name>МеханизмыСложныхПериодическихРасчетов</Name>
+		<Code xsi:type="xs:decimal">14</Code>
+		<Description>Механизмы сложных периодических расчетов</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="4a7e21c1-432b-45b5-9017-cc83ad7cc1a3">
+		<Name>ОбслуживаниеПрикладногоРешения</Name>
+		<Code xsi:type="xs:decimal">9</Code>
+		<Description>Обслуживание прикладного решения</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="f7dc7d34-7c5f-4952-8f13-41ea6ff17c0a">
+		<Name>ОбщиеМеханизмыПонятияИТермины</Name>
+		<Code xsi:type="xs:decimal">1</Code>
+		<Description>Общие механизмы, понятия и термины</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="6e24e4c5-f525-4b3c-9c21-76a742a95345">
+		<Name>ОбъектнаяМодельПрикладногоРешения</Name>
+		<Code xsi:type="xs:decimal">6</Code>
+		<Description>Объектная модель прикладного решения</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="48fe8a9d-dd22-4a7f-a670-c881b6bf7a85">
+		<Name>ОбъектыИМеханизмыБухгалтерскогоУчета</Name>
+		<Code xsi:type="xs:decimal">13</Code>
+		<Description>Объекты и механизмы бухгалтерского учета</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="dfbcff46-3096-4b06-8ce5-09eb98ac7f39">
+		<Name>РедакторыИИнструментыОбщие</Name>
+		<Code xsi:type="xs:decimal">2</Code>
+		<Description>Редакторы и инструменты общие</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="66fb84fe-3bea-4b4d-961c-c7c9a6590e4b">
+		<Name>РедакторыИИнструментыРежимаРазработки</Name>
+		<Code xsi:type="xs:decimal">3</Code>
+		<Description>Редакторы и инструменты режима разработки</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="f37ed7d0-4d55-44a7-90b4-a53a5d018fd8">
+		<Name>ТабличнаяМодельПрикладногоРешения</Name>
+		<Code xsi:type="xs:decimal">7</Code>
+		<Description>Табличная модель прикладного решения</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="685eeab6-399e-4201-9ad8-b576a9cd2149">
+		<Name>ТехнологияРазработки</Name>
+		<Code xsi:type="xs:decimal">5</Code>
+		<Description>Технология разработки</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+</PredefinedData>
