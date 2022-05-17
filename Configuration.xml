@@ -241,7 +241,9 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Справочники</Subsystem>
+			<Constant>СлучайныеБилетыБезПоказанных</Constant>
 			<CommonForm>Главная</CommonForm>
+			<CommonForm>Экзамен</CommonForm>
 			<Catalog>БилетыПлатформа</Catalog>
 			<Catalog>ХранилищеФайлов</Catalog>
 		</ChildObjects>

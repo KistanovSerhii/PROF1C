@@ -4,13 +4,51 @@
 		<Autofill>false</Autofill>
 	</AutoCommandBar>
 	<ChildItems>
-		<Button name="ЭкзаменПлатформа" id="1">
-			<Type>UsualButton</Type>
+		<UsualGroup name="ГруппаКоманды" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа команды</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа команды</v8:content>
+				</v8:item>
+			</ToolTip>
 			<HorizontalStretch>true</HorizontalStretch>
+			<VerticalStretch>true</VerticalStretch>
 			<GroupHorizontalAlign>Center</GroupHorizontalAlign>
-			<CommandName>Form.Command.ЭкзаменПлатформа</CommandName>
-			<ExtendedTooltip name="ЭкзаменПлатформаРасширеннаяПодсказка" id="2"/>
-		</Button>
+			<GroupVerticalAlign>Center</GroupVerticalAlign>
+			<Group>Vertical</Group>
+			<HorizontalAlign>Center</HorizontalAlign>
+			<VerticalAlign>Center</VerticalAlign>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаКомандыРасширеннаяПодсказка" id="4"/>
+			<ChildItems>
+				<Button name="ЭкзаменПлатформа" id="1">
+					<Type>UsualButton</Type>
+					<GroupHorizontalAlign>Center</GroupHorizontalAlign>
+					<CommandName>Form.Command.ЭкзаменПлатформа</CommandName>
+					<Font ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem"/>
+					<ExtendedTooltip name="ЭкзаменПлатформаРасширеннаяПодсказка" id="2"/>
+				</Button>
+				<PictureDecoration name="ДекорацияОтступ1" id="5">
+					<Height>1</Height>
+					<HorizontalStretch>true</HorizontalStretch>
+					<Title formatted="false">
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Декорация отступ1</v8:content>
+						</v8:item>
+					</Title>
+					<ContextMenu name="ДекорацияОтступ1КонтекстноеМеню" id="6"/>
+					<ExtendedTooltip name="ДекорацияОтступ1РасширеннаяПодсказка" id="7"/>
+				</PictureDecoration>
+			</ChildItems>
+		</UsualGroup>
 	</ChildItems>
 	<Attributes/>
 	<Commands>
@@ -27,6 +65,12 @@
 					<v8:content>Экзамен платформа</v8:content>
 				</v8:item>
 			</ToolTip>
+			<Picture>
+				<xr:Ref>StdPicture.FormHelp</xr:Ref>
+				<xr:LoadTransparent>true</xr:LoadTransparent>
+			</Picture>
+			<Action>ЭкзаменПлатформа</Action>
+			<Representation>TextPicture</Representation>
 		</Command>
 	</Commands>
 </Form>
