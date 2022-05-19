@@ -241,6 +241,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Справочники</Subsystem>
+			<CommonModule>ОбщегоНазначения</CommonModule>
 			<Constant>СлучайныеБилетыБезПоказанных</Constant>
 			<CommonForm>Главная</CommonForm>
 			<CommonForm>Экзамен</CommonForm>
