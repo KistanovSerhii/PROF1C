@@ -241,12 +241,14 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>Справочники</Subsystem>
+			<Subsystem>Системные</Subsystem>
 			<CommonModule>ОбщегоНазначения</CommonModule>
 			<Constant>СлучайныеБилетыБезПоказанных</Constant>
 			<CommonForm>Главная</CommonForm>
 			<CommonForm>Экзамен</CommonForm>
 			<Catalog>БилетыПлатформа</Catalog>
 			<Catalog>ХранилищеФайлов</Catalog>
+			<InformationRegister>БилетыПоказанныеРанее</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
