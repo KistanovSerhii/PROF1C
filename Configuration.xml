@@ -243,6 +243,7 @@
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Системные</Subsystem>
 			<CommonModule>ОбщегоНазначения</CommonModule>
+			<CommonModule>ДФИнтерфейса</CommonModule>
 			<Constant>СлучайныеБилетыБезПоказанных</Constant>
 			<CommonForm>Главная</CommonForm>
 			<CommonForm>Экзамен</CommonForm>
