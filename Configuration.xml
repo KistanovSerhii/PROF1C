@@ -244,9 +244,9 @@
 			<Subsystem>Системные</Subsystem>
 			<CommonModule>ОбщегоНазначения</CommonModule>
 			<CommonModule>ДФИнтерфейса</CommonModule>
-			<Constant>СлучайныеБилетыБезПоказанных</Constant>
-			<CommonForm>Главная</CommonForm>
-			<CommonForm>Экзамен</CommonForm>
+			<Constant>СлучайныеБезРанееПоказанных</Constant>
+			<CommonForm>ГлавноеМеню</CommonForm>
+			<CommonForm>ПредставлениеДанных</CommonForm>
 			<Catalog>БилетыПлатформа</Catalog>
 			<Catalog>ХранилищеФайлов</Catalog>
 			<InformationRegister>БилетыПоказанныеРанее</InformationRegister>
