@@ -249,7 +249,9 @@
 			<CommonForm>ПредставлениеДанных</CommonForm>
 			<Catalog>БилетыПлатформа</Catalog>
 			<Catalog>ХранилищеФайлов</Catalog>
+			<Enum>СтатусыБилетов</Enum>
 			<InformationRegister>БилетыПоказанныеРанее</InformationRegister>
+			<InformationRegister>БилетыСтатусОбучения</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.13">
-	<InformationRegister uuid="44b66741-f915-474b-843e-41eea968dcec">
+	<InformationRegister uuid="3b9c4514-176e-4cb8-bd65-14706cb5991a">
 		<InternalInfo>
-			<xr:GeneratedType name="InformationRegisterRecord.БилетыПоказанныеРанее" category="Record">
-				<xr:TypeId>f4a4c73e-ea80-49fc-9c6c-aad9949d316d</xr:TypeId>
-				<xr:ValueId>1e454e2f-c995-4a5f-9d95-c26eabd91c29</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.БилетыСтатусОбучения" category="Record">
+				<xr:TypeId>cb057572-7d02-4b74-8f66-f8d487fb3506</xr:TypeId>
+				<xr:ValueId>57d68e7a-1541-44a8-9a46-189388eedf90</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterManager.БилетыПоказанныеРанее" category="Manager">
-				<xr:TypeId>91cb576e-54bb-45ac-8518-1754143a1b49</xr:TypeId>
-				<xr:ValueId>9d98fc2a-e5e6-47cb-97c6-c8cadf0dfaff</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.БилетыСтатусОбучения" category="Manager">
+				<xr:TypeId>e123a4b0-0803-4c8d-a17a-3db95ca1d5a8</xr:TypeId>
+				<xr:ValueId>50efddc6-1193-444b-a1d3-d6ac4910969d</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterSelection.БилетыПоказанныеРанее" category="Selection">
-				<xr:TypeId>a2d71bcf-4072-41f8-8f2f-80ea7dc7979d</xr:TypeId>
-				<xr:ValueId>bb847f8b-20fd-4243-9ac3-1f495a4670b5</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.БилетыСтатусОбучения" category="Selection">
+				<xr:TypeId>04364c4d-20f5-4df0-a4ec-74e54261befc</xr:TypeId>
+				<xr:ValueId>c3efe02a-054c-46ee-b667-6437c35829cd</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterList.БилетыПоказанныеРанее" category="List">
-				<xr:TypeId>9fa4debc-0b75-4c5b-b00b-cfaee63073aa</xr:TypeId>
-				<xr:ValueId>06bb6754-0bc2-4ce5-99ae-ca4c247b5a80</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.БилетыСтатусОбучения" category="List">
+				<xr:TypeId>8a60949a-26bd-4959-953e-9a6914c78f5c</xr:TypeId>
+				<xr:ValueId>170e396a-2966-4870-8d18-ca259c865b82</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordSet.БилетыПоказанныеРанее" category="RecordSet">
-				<xr:TypeId>d3a65e8d-095d-41c2-b2c7-1f0a6aa65b81</xr:TypeId>
-				<xr:ValueId>541d0d05-0b59-4c2b-8fba-9925ed6c05a5</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.БилетыСтатусОбучения" category="RecordSet">
+				<xr:TypeId>e047dca5-92a1-4ead-b475-98bf8ae22842</xr:TypeId>
+				<xr:ValueId>6a9f3425-7753-467c-9a81-51186709155c</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordKey.БилетыПоказанныеРанее" category="RecordKey">
-				<xr:TypeId>bb86c11b-86bf-4e39-9409-c5fcf743b831</xr:TypeId>
-				<xr:ValueId>81f4e210-95fb-45ba-8da7-46b6066ed877</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordKey.БилетыСтатусОбучения" category="RecordKey">
+				<xr:TypeId>f5d16467-18ac-4f90-8820-2023a1d61d3f</xr:TypeId>
+				<xr:ValueId>ff5dc2fd-b695-4125-a08f-776d69c7a8b5</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordManager.БилетыПоказанныеРанее" category="RecordManager">
-				<xr:TypeId>6673daa4-c6d6-47ef-a578-537fa554010d</xr:TypeId>
-				<xr:ValueId>801e1d6c-b185-4b4d-a907-54e0f3f85387</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordManager.БилетыСтатусОбучения" category="RecordManager">
+				<xr:TypeId>a8e67194-4337-4234-9c40-4000b9a0f10f</xr:TypeId>
+				<xr:ValueId>6a21e7bd-0ca4-4e33-bb11-3de16897e8d1</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>БилетыПоказанныеРанее</Name>
+			<Name>БилетыСтатусОбучения</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Билеты показанные ранее</v8:content>
+					<v8:content>Билеты статус обучения</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -64,7 +64,7 @@
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="d5fe7af6-78e1-4cca-a89f-e12cd55b0904">
+			<Resource uuid="3b7c6236-d66f-4253-b56a-c3d646418bb5">
 				<Properties>
 					<Name>СправочникИмя</Name>
 					<Synonym>
@@ -107,7 +107,46 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Resource>
-			<Dimension uuid="677c12b7-953b-4246-85d6-8f435203cb2d">
+			<Resource uuid="03345da4-2e50-4f65-a604-104874302640">
+				<Properties>
+					<Name>Статус</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Статус</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:EnumRef.СтатусыБилетов</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+					<DataHistory>Use</DataHistory>
+				</Properties>
+			</Resource>
+			<Dimension uuid="d2b7aa74-76ec-4325-b73b-6f5c17e2f2be">
 				<Properties>
 					<Name>Билет</Name>
 					<Synonym>

@@ -16,6 +16,8 @@
 			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.БилетыПоказанныеРанее</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.БилетыСтатусОбучения</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Enum.СтатусыБилетов</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
