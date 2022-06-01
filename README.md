@@ -1,2 +1,2 @@
-# PROF1S
-Profession programmer 1S - Профессия 1С:Программист (подготовка к экзаменам 1С)
+# PROF1C
+Profession programmer 1C - Профессия 1С:Программист (подготовка к экзаменам 1С)
