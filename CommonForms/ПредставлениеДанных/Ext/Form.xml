@@ -7,23 +7,32 @@
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
-		<UsualGroup name="ПанельСчетчикБилетов" id="4">
+		<UsualGroup name="ПанельУправленияСчетчикБилетов" id="9">
 			<Title>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Панель счетчик билетов</v8:content>
+					<v8:content>Панель управления счетчик билетов</v8:content>
 				</v8:item>
 			</Title>
 			<ToolTip>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Панель счетчик билетов</v8:content>
+					<v8:content>Панель управления счетчик билетов</v8:content>
 				</v8:item>
 			</ToolTip>
 			<Representation>None</Representation>
 			<ShowTitle>false</ShowTitle>
-			<ExtendedTooltip name="ПанельСчетчикБилетовРасширеннаяПодсказка" id="5"/>
+			<ExtendedTooltip name="ПанельУправленияСчетчикБилетовРасширеннаяПодсказка" id="10"/>
 		</UsualGroup>
+		<HTMLDocumentField name="ИнтернетДанные" id="6">
+			<DataPath>ИнтернетДанные</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<TitleLocation>None</TitleLocation>
+			<GroupHorizontalAlign>Center</GroupHorizontalAlign>
+			<GroupVerticalAlign>Center</GroupVerticalAlign>
+			<ContextMenu name="ИнтернетДанныеКонтекстноеМеню" id="7"/>
+			<ExtendedTooltip name="ИнтернетДанныеРасширеннаяПодсказка" id="8"/>
+		</HTMLDocumentField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="мБилеты" id="2">
@@ -49,6 +58,21 @@
 					</Type>
 				</Column>
 			</Columns>
+		</Attribute>
+		<Attribute name="ИнтернетДанные" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Интернет данные</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
 		</Attribute>
 	</Attributes>
 	<Parameters>

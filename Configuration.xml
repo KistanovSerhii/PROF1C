@@ -32,7 +32,7 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>PROF1S</Name>
+			<Name>PROF1С</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
@@ -227,7 +227,7 @@
 			<ConfigurationInformationAddress>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>https://github.com/KistanovSerhii/PROF1S/blob/main/README.md</v8:content>
+					<v8:content>https://github.com/KistanovSerhii/PROF1С/blob/main/README.md</v8:content>
 				</v8:item>
 			</ConfigurationInformationAddress>
 			<DataLockControlMode>Managed</DataLockControlMode>
@@ -244,6 +244,7 @@
 			<Subsystem>Системные</Subsystem>
 			<CommonModule>ОбщегоНазначения</CommonModule>
 			<CommonModule>ДФИнтерфейса</CommonModule>
+			<CommonModule>ДанныеИнтернет</CommonModule>
 			<Constant>СлучайныеБезРанееПоказанных</Constant>
 			<CommonForm>ГлавноеМеню</CommonForm>
 			<CommonForm>ПредставлениеДанных</CommonForm>
